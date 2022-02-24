@@ -1,0 +1,6 @@
+﻿  Discount system.cpp
+c:\users\dell\source\repos\discount system\discount system\discount system.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\discount system\discount system\discount system.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\discount system\discount system\discount system.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\discount system\discount system\discount system.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Discount system.vcxproj -> C:\Users\dell\source\repos\Discount system\Debug\Discount system.exe
